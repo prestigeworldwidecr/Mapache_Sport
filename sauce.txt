@@ -1,0 +1,18 @@
+nflapi
+odds matrix
+the sports
+
+sports data io
+API Key: 1cfc446c7c294d31b67a55f3fcf571ff
+
+https://dev.azure.com/prestigeworldwidecr/MapacheSport/_boards/board/t/MapacheSport%20Team/Backlog%20items
+
+https://stackoverflow.com/questions/36849467/sails-js-ignored-attempt-to-bind-route-to-unknown-controller-home
+
+https://pythonrepo.com/repo/Yeetzsche-PFR_Scraper_Aggregate-python-web-crawling
+
+track bettors movement
+based on their placements, offer advice in tableau
+best underdog hit the last two weeks
+keep them engaged
+4 game hot streak betting on Colgate at home...
